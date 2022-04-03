@@ -1,0 +1,28 @@
+{
+    "version": 13,
+    "structures": {
+        "bled": {
+            "priority": 3,
+            "pixels": [
+                {
+                    "x": 326,
+                    "y": 875,
+                    "color": 31,
+                    "priority": 3
+                },
+                {
+                    "x": 327,
+                    "y": 875,
+                    "color": 29,
+                    "priority": 3
+                }
+            ]
+        }
+    },
+    "priorities": {
+        "0": 0,
+        "1": 1,
+        "2": 5,
+        "3": 10
+    }
+}
