@@ -1,0 +1,122 @@
+[
+    {
+        "id": "1",
+        "hex": "BE0039",
+        "name": "dark_red"
+    },
+    {
+        "id": "2",
+        "hex": "FF4500",
+        "name": "red"
+    },
+    {
+        "id": "3",
+        "hex": "FFA800",
+        "name": "orange"
+    },
+    {
+        "id": "4",
+        "hex": "FFD635",
+        "name": "yellow"
+    },
+    {
+        "id": "6",
+        "hex": "00A368",
+        "name": "dark_green"
+    },
+    {
+        "id": "7",
+        "hex": "00CC78",
+        "name": "green"
+    },
+    {
+        "id": "8",
+        "hex": "7EED56",
+        "name": "light_green"
+    },
+    {
+        "id": "9",
+        "hex": "00756F",
+        "name": "dark_teal"
+    },
+    {
+        "id": "10",
+        "hex": "009EAA",
+        "name": "teal"
+    },
+    {
+        "id": "12",
+        "hex": "2450A4",
+        "name": "dark_blue"
+    },
+    {
+        "id": "13",
+        "hex": "3690EA",
+        "name": "blue"
+    },
+    {
+        "id": "14",
+        "hex": "51E9F4",
+        "name": "light_blue"
+    },
+    {
+        "id": "15",
+        "hex": "493AC1",
+        "name": "indigo"
+    },
+    {
+        "id": "16",
+        "hex": "6A5CFF",
+        "name": "periwinkle"
+    },
+    {
+        "id": "18",
+        "hex": "811E9F",
+        "name": "dark_purple"
+    },
+    {
+        "id": "19",
+        "hex": "B44AC0",
+        "name": "purple"
+    },
+    {
+        "id": "22",
+        "hex": "FF3881",
+        "name": "pink"
+    },
+    {
+        "id": "23",
+        "hex": "FF99AA",
+        "name": "light_pink"
+    },
+    {
+        "id": "24",
+        "hex": "6D482F",
+        "name": "dark_brown"
+    },
+    {
+        "id": "25",
+        "hex": "9C6926",
+        "name": "brown"
+    },
+    {
+        "id": "27",
+        "hex": "000000",
+        "name": "black"
+    },
+    {
+        "id": "29",
+        "hex": "898D90",
+        "name": "gray"
+    },
+    {
+        "id": "30",
+        "hex": "D4D7D9",
+        "name": "light_gray"
+    },
+    {
+        "id": "31",
+        "hex": "FFFFFF",
+        "name": "white"
+    }
+]

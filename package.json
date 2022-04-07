@@ -1,0 +1,23 @@
+{
+    "name": "placesi",
+    "version": "1.0.0",
+    "description": "Bot for r/place",
+    "main": "./src/index.js",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Spacey4K/placeSI.git"
+    },
+    "keywords": [
+        "r/place"
+    ],
+    "author": "Spacey4K",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Spacey4K/placeSI/issues"
+    },
+    "homepage": "https://github.com/Spacey4K/placeSI#readme",
+    "dependencies": {
+        "jimp": "^0.16.1"
+    }
+}

@@ -1,4 +1,4 @@
-# PlaceSI Bot
+# PlaceSI Bot for r/place
 
 ## Installation instructions
 
